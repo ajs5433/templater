@@ -6,7 +6,11 @@
 
 <script>
 export default {
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> e71e7268659ad9cc665b6d94894f2d8eacc0a8df
 }
 </script>
 
